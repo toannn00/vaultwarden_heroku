@@ -17,7 +17,7 @@ body {
   background-size: 39em !important;
 }
 
-#logo.power_logo {
+/* #logo.power_logo {
   background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
     no-repeat bottom center !important;
 }
@@ -28,7 +28,7 @@ body {
 #logo.power_logo3 {
   background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
     no-repeat bottom center !important;
-}
+} */
 
 #menu {
   font-family: "touhouproject";

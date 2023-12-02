@@ -23,15 +23,16 @@ body {
   font-weight: normal;
 }
 #menu ul {
-  max-width: 1220px;
-  margin-top: -2px;
-  text-transform: lowercase;
+  max-width: 950px;
+  margin-top: -4px;
 }
 #menu ul a {
+  color: #ffffff !important;
+  padding: 5px 18px;
   color: #fff !important;
 }
 #menu ul a:hover {
-  color: #f39a36 !important;
+  color: #c6c9ff !important;
 }
 
 .alertbar a {
@@ -43,10 +44,10 @@ body {
 }
 
 #userinfo #userinfo_username .donateico {
-  margin-top: 32px;
-  margin-left: 70px;
+  margin-top: 28px;
+  margin-left: -60px;
+  width: auto;
   display: inline-block;
-  text-transform: lowercase;
 }
 #userinfo #userinfo_username .donateico a {
   font-family: "touhouproject";
@@ -56,5 +57,5 @@ body {
   text-shadow: 1px 1px 2px #000;
 }
 #userinfo #userinfo_username .donateico a:hover {
-  color: #fff;
+  display: none;
 }

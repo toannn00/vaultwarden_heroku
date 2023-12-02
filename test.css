@@ -13,8 +13,8 @@ body {
 
 #logo {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png") !important;
-  background-position: center;
-  background-size: 39em;
+  background-position: center !important;
+  background-size: 39em !important;
 }
 #menu {
   font-family: "touhouproject";

@@ -32,7 +32,7 @@ body {
   padding: 5px 18px;
 }
 #menu ul a:hover {
-  color: #ffd0dd !important;
+  color: #c6c9ff !important;
 }
 
 .alertbar a {
@@ -57,7 +57,7 @@ body {
   text-shadow: 1px 1px 2px #000;
 }
 #userinfo #userinfo_username .donateico a:hover {
-  color: #ffd0dd;
+  color: #c6c9ff !important;
 }
 .donateico span {
   display: none;

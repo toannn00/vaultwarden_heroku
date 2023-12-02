@@ -29,6 +29,7 @@ body {
 #menu ul a {
   color: #ffffff !important;
   padding: 5px 18px;
+  background-color: rgba(57, 206, 239, 0.05) !important;
 }
 #menu ul a:hover {
   color: #c6c9ff !important;

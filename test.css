@@ -1,13 +1,13 @@
 @font-face {
   font-family: "touhouproject";
-  src: url(fonts/touhouproject.ttf);
+  src: url(https://gazellegames.net/static/styles/game_room/fonts/touhouproject.ttf);
 }
 
 body.series_66 {
-  background-image: url("images/gameseries/touhouprojectbkg.jpg");
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectbkg.jpg");
 }
 .series_66 #logo {
-  background-image: url("images/gameseries/touhouprojectlogo.png");
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png");
   background-position: center;
   background-size: 39em;
 }

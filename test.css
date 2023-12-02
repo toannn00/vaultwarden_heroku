@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusicbkg.jpg") !important;
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/gumibkg.jpg") !important;
 }
 
 #logo {
@@ -21,33 +21,32 @@ body {
   text-transform: uppercase;
   font-size: 2em;
   font-weight: normal;
-  background: rgba(20, 35, 50, 0.85);
 }
 #menu ul {
-  max-width: 950px;
-  margin-top: -4px;
+  max-width: 1220px;
+  margin-top: -2px;
+  text-transform: lowercase;
 }
 #menu ul a {
-  color: #ffffff !important;
-  padding: 5px 18px;
+  color: #fff !important;
 }
 #menu ul a:hover {
-  color: #c6c9ff !important;
+  color: #f39a36 !important;
 }
 
 .alertbar a {
   color: #fff;
-  text-shadow: 1px 1px 2px #000;
+}
+#userinfo {
+  background-color: rgba(57, 206, 239, 0.05);
+  border-bottom-color: #404040;
 }
 
-#userinfo {
-  background: rgba(20, 35, 50, 0.85);
-}
 #userinfo #userinfo_username .donateico {
-  margin-top: 28px;
-  margin-left: -60px;
-  width: auto;
+  margin-top: 32px;
+  margin-left: 70px;
   display: inline-block;
+  text-transform: lowercase;
 }
 #userinfo #userinfo_username .donateico a {
   font-family: "touhouproject";
@@ -57,8 +56,5 @@ body {
   text-shadow: 1px 1px 2px #000;
 }
 #userinfo #userinfo_username .donateico a:hover {
-  color: #c6c9ff !important;
-}
-.donateico span {
-  display: none;
+  color: #fff;
 }

@@ -2,7 +2,6 @@
 @import url("https://gazellegames.net/static/styles/game_room/style.css"); /* Main style from Gameroom */
 @import url(https://gazellegames.net/static/styles/game_room/caticons.css); /* Category icons from Gameroom */
 @import url(https://gazellegames.net/static/styles/game_room/webLinks.css); /* Weblink icons from Gameroom */
-/*@import url(../game_room/gamethemes.css);*/ /* Custom game/profile themes */
 
 @font-face {
   font-family: "touhouproject";
@@ -13,29 +12,22 @@ body {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectbkg.jpg");
 }
 #logo {
-  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png");
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png") !important;
   background-position: center;
   background-size: 39em;
 }
 
-#logo a {
-  height: 200px;
-  width: 100%;
-  display: block;
-  position: relative;
-}
-
 #logo.power_logo {
   background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
-    no-repeat bottom center;
+    no-repeat bottom center !important;
 }
 #logo.power_logo2 {
   background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
-    no-repeat bottom center;
+    no-repeat bottom center !important;
 }
 #logo.power_logo3 {
   background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
-    no-repeat bottom center;
+    no-repeat bottom center !important;
 }
 
 #menu {

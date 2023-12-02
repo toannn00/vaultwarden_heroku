@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusicbkg.jpg");
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusicbkg.jpg") !important;
 }
 
 #logo {

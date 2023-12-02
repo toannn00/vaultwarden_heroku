@@ -1,72 +1,66 @@
 /* Halloween Game Room */
-@import url("https://gazellegames.net/static/styles/game_room/style-plain.css"); /* Main style from Gameroom */
+@import url("https://gazellegames.net/static/styles/game_room/style.css"); /* Main style from Gameroom */
 @import url(https://gazellegames.net/static/styles/game_room/caticons.css); /* Category icons from Gameroom */
 @import url(https://gazellegames.net/static/styles/game_room/webLinks.css); /* Weblink icons from Gameroom */
 /*@import url(../game_room/gamethemes.css);*/ /* Custom game/profile themes */
-
-/* Just in case gamethemes.css is not available or Limbo changes */
-@font-face {
-  font-family: "limbo";
-  src: url(../game_room/fonts/limbo.ttf);
-}
 
 @font-face {
   font-family: "touhouproject";
   src: url(https://gazellegames.net/static/styles/game_room/fonts/touhouproject.ttf);
 }
 
-body.series_66 {
+body {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectbkg.jpg");
 }
-.series_66 #logo {
+#logo {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png");
   background-position: center;
   background-size: 39em;
 }
 
-.series_66 #menu {
+#menu {
   font-family: "touhouproject";
   text-transform: uppercase;
   font-size: 2em;
   font-weight: normal;
   background: rgba(20, 35, 50, 0.85);
 }
-.series_66 #menu ul {
+#menu ul {
   max-width: 950px;
   margin-top: -4px;
 }
-.series_66 #menu ul a {
+#menu ul a {
   color: #ffffff !important;
   padding: 5px 18px;
 }
-.series_66 #menu ul a:hover {
+#menu ul a:hover {
   color: #ffd0dd !important;
 }
 
-.series_66 .alertbar a {
+.alertbar a {
   color: #fff;
   text-shadow: 1px 1px 2px #000;
 }
 
-.series_66 #userinfo {
+#userinfo {
   background: rgba(20, 35, 50, 0.85);
 }
-.series_66 #userinfo #userinfo_username .donateico {
+#userinfo #userinfo_username .donateico {
   margin-top: 28px;
   margin-left: -60px;
   width: auto;
   display: inline-block;
 }
-.series_66 #userinfo #userinfo_username .donateico a {
+#userinfo #userinfo_username .donateico a {
   font-family: "touhouproject";
   text-transform: uppercase;
   color: #ffffff;
   font-size: 2em;
   text-shadow: 1px 1px 2px #000;
 }
-.series_66 #userinfo #userinfo_username .donateico a:hover {
+#userinfo #userinfo_username .donateico a:hover {
   color: #ffd0dd;
 }
-.series_66 .donateico span {
+.donateico span {
   display: none;
 }

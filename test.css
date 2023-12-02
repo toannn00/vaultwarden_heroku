@@ -56,6 +56,3 @@ body {
   font-size: 2em;
   text-shadow: 1px 1px 2px #000;
 }
-#userinfo #userinfo_username .donateico a:hover {
-  display: none;
-}

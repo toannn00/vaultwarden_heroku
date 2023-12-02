@@ -1,3 +1,15 @@
+/* Halloween Game Room */
+@import url("https://gazellegames.net/static/styles/game_room/style-plain.css"); /* Main style from Gameroom */
+@import url(https://gazellegames.net/static/styles/game_room/caticons.css); /* Category icons from Gameroom */
+@import url(https://gazellegames.net/static/styles/game_room/webLinks.css); /* Weblink icons from Gameroom */
+/*@import url(../game_room/gamethemes.css);*/ /* Custom game/profile themes */
+
+/* Just in case gamethemes.css is not available or Limbo changes */
+@font-face {
+  font-family: "limbo";
+  src: url(../game_room/fonts/limbo.ttf);
+}
+
 @font-face {
   font-family: "touhouproject";
   src: url(https://gazellegames.net/static/styles/game_room/fonts/touhouproject.ttf);

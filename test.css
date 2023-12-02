@@ -43,6 +43,12 @@ body {
   border-bottom-color: #404040;
 }
 
+#userinfo #userinfo_username .donateico {
+  margin-top: 28px;
+  margin-left: -60px;
+  width: auto;
+  display: inline-block;
+}
 #userinfo #userinfo_username .donateico a {
   font-family: "touhouproject";
   text-transform: uppercase;

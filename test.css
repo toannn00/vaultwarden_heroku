@@ -18,6 +18,26 @@ body {
   background-size: 39em;
 }
 
+#logo a {
+  height: 200px;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+#logo.power_logo {
+  background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
+    no-repeat bottom center;
+}
+#logo.power_logo2 {
+  background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
+    no-repeat bottom center;
+}
+#logo.power_logo3 {
+  background: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png")
+    no-repeat bottom center;
+}
+
 #menu {
   font-family: "touhouproject";
   text-transform: uppercase;

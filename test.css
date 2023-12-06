@@ -20,6 +20,13 @@ body {
   border-bottom: transparent;
 }
 
+#logo.power_logo2 #header #logo.power_logo3 {
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png");
+  background-position: center;
+  background-size: 39em;
+  border-bottom: transparent;
+}
+
 #userinfo {
   background-color: rgba(57, 206, 239, 0.05);
   border-bottom: transparent;

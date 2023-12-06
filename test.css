@@ -14,5 +14,5 @@ body {
 
 #userinfo {
   background-color: rgba(57, 206, 239, 0.05);
-  border-color: transparent;
+  box-shadow: 0 5px 14px -2px #000;
 }

@@ -6,7 +6,8 @@ body {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/gumibkg.jpg");
 }
 
-#logo {
+#logo,
+#logo.power_logo {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png");
   background-position: center;
   background-size: 39em;

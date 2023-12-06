@@ -10,9 +10,15 @@ body {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png") !important;
   background-position: center !important;
   background-size: 39em !important;
+  border-bottom: transparent;
 }
 
 #userinfo {
   background-color: rgba(57, 206, 239, 0.05);
-  box-shadow: 0 5px 14px -2px #000;
+  border-bottom: transparent;
+}
+
+#menu {
+  border-bottom: transparent;
+  box-shadow: none;
 }

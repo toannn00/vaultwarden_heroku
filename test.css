@@ -11,3 +11,7 @@ body {
   background-position: center !important;
   background-size: 39em !important;
 }
+
+#menu {
+  background-color: rgba(57, 206, 239, 0.05);
+}

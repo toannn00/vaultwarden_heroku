@@ -7,10 +7,14 @@ body {
 }
 
 #logo {
-  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png") !important;
-  background-position: center !important;
-  background-size: 39em !important;
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png");
+  background-position: center;
+  background-size: 39em;
   border-bottom: transparent;
+}
+
+#logo.power_logo {
+  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png");
 }
 
 #userinfo {

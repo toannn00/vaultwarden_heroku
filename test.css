@@ -24,3 +24,14 @@ body {
   border-bottom: transparent;
   box-shadow: none;
 }
+
+@media only screen and (max-width: 800px) {
+  #logo.power_logo,
+  #logo.power_logo2,
+  #logo.power_logo3 {
+    background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png");
+    background-position: center;
+    background-size: 39em;
+    border-bottom: transparent;
+  }
+}

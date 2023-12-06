@@ -12,6 +12,7 @@ body {
   background-size: 39em !important;
 }
 
-#menu {
+#userinfo {
   background-color: rgba(57, 206, 239, 0.05);
+  border-bottom-color: #404040;
 }

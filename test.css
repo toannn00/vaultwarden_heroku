@@ -7,7 +7,7 @@ body {
 }
 
 #header #logo,
-#header #logo.power_logo #header #logo.power_logo2 #header #logo.power_logo3 {
+#header #logo.power_logo #header #logo.power_logo2 {
   background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhoumusiclogo.png");
   background-position: center;
   background-size: 39em;

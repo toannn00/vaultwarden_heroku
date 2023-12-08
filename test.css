@@ -8,9 +8,7 @@ body {
 
 #header #logo,
 #header #logo.power_logo #header #logo.power_logo2 #header #logo.power_logo3 {
-  background-image: url("https://gazellegames.net/static/styles/game_room/images/gameseries/touhouprojectlogo.png");
-  background-position: center;
-  background-size: 39em;
+  background-image: none;
   border-bottom: transparent;
 }
 
